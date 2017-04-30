@@ -1,0 +1,14 @@
+{
+  "name": "Request-Header-Parser",
+  "version": "1.0.0",
+  "description": "An api to parse some of the header properties in a request",
+  "main": "whoami.js",
+  "scripts": {
+    "start": "node whoami.js"
+  },
+  "repository": "",
+  "author": "John Eidum <eidum003@umn.edu>",
+  "dependencies": {
+    "express": "~3.2.4"
+  }
+}
